@@ -2,7 +2,7 @@
     <div id="back">
         <div id="backedit">
             <div id="noteEdit" v-for="note in note" v-bind:key="note._id">
-                <p> Update de la note : "{{ note._id}}"</p>
+                <p> Update the note : "{{ note._id}}"</p>
             <div>
                 <label>Title</label>
             </div>
