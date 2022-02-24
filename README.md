@@ -1,4 +1,4 @@
-# postit
+# Post_It
 
 ## Project setup
 ```
