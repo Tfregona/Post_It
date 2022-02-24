@@ -16,7 +16,7 @@ npm run serve
 Display all the notes created
 
 <p align="center">
-  <img src=".github/postit1.jpg" width="30%;" />
+  <img src=".github/postit1.jpg" width="90%;" />
 </p>
 
 ### Create page
@@ -24,7 +24,7 @@ Display all the notes created
 Form for posting a note 
 
 <p align="center">
-  <img src=".github/postit2.jpg" width="30%;" />
+  <img src=".github/postit2.jpg" width="90%;" />
 </p>
 
 ### Dynamic page
@@ -34,7 +34,7 @@ Display the note clicked in bigger with two options :
 - Delete this note
 
 <p align="center">
-  <img src=".github/postit3.jpg" width="30%;" />
+  <img src=".github/postit3.jpg" width="90%;" />
 </p>
 
 ### Update a note page
@@ -42,5 +42,5 @@ Display the note clicked in bigger with two options :
 Form with actual values in placeholder
 
 <p align="center">
-  <img src=".github/postit4.jpg" width="30%;" />
+  <img src=".github/postit4.jpg" width="90%;" />
 </p>
